@@ -1,7 +1,7 @@
 # ShopApplication
 Application for goods exploring and managing in supermarket Lenta
 
-Application allows to overlook goods which are taken from official Lenta's dite JSON response.
+Application allows to overlook goods which are taken from official Lenta's site JSON response.
 
 There is a full-text search, sorting, adding and deleting objects.
 
